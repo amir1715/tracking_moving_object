@@ -5,8 +5,11 @@ Tracking a moving object or animal based on its contrast with the environment
 
 <img src="https://github.com/amir1715/tracking_moving_object/blob/main/Fig1.jpg" width="800">
 - Both circle and rectangular zones are supported
+- 
 - Possible to Track the object using any RGB or their combinations
+- 
 - Possible to define platform for morris water maze
+- 
 - Possible to define the approaching angle and coefficient of the object to the platform
 
 
